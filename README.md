@@ -1,7 +1,7 @@
 # HR-Analytic-Dashboard
 This dashboard provides a comprehensive view of the organization's human resources data, helping stakeholders analyze workforce composition, salary distribution, and overall employee metrics.
 
-Key Highlights
+# Key Highlights
 Total Workforce Overview: The dashboard showcases the overall number of employees, along with their average age, average salary, and average leave balance. These metrics give a quick summary of the employee demographic and resource planning indicators.<br/>
 
 Gender Distribution: A visual donut chart highlights the distribution of employees by gender. It shows a fairly balanced ratio between male and female employees, indicating healthy gender diversity in the organization.<br/>
@@ -16,5 +16,5 @@ Salary Allocation by Role: Another bar chart shows how total salary expenditure 
 
 Leave Balance Overview: A table lists employees with their remaining leave balances, helping HR track usage patterns and ensure employee well-being.<br/>
 
-🧩 Strategic Insights
+# Strategic Insights
 This dashboard supports workforce planning, compensation analysis, and diversity tracking. It can be used by HR teams, managers, and leadership to align human capital with organizational goals, identify staffing gaps, and make informed budget decisions.
